@@ -1,0 +1,28 @@
+{
+  "name": "assemblyscriptcontract",
+  "version": "1.0.0",
+  "description": "My first smart contract.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yholly/AssemblyScriptContract.git"
+  },
+  "keywords": [
+    "Mammoth",
+    "Interactive",
+    "Near",
+    "Blockchain"
+  ],
+  "author": "Mammoth Interactive Near Blockchain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yholly/AssemblyScriptContract/issues"
+  },
+  "homepage": "https://github.com/yholly/AssemblyScriptContract#readme",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
